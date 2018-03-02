@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Barbers</string>
+    <string name="work_email">Work e-mail</string>
+    <string name="mobile">Mobile</string>
+    <string name="contact">Contact Us : </string>
+    <string name="services">Services : </string>
+    <string name="operations">Hours of Operations : </string>
+    <string name="phone">+447880640470</string>
+    <string name="email">demsdema217@gmail.com</string>
+    <string name="Website">2msdema.design</string>
+    <string name="web">Website</string>
+    <string name="hours_of_operation"> We are Opened Everyday :  </string>
+    <string name="address">2465 Latham St, Mountain View, CA 94043</string>
+    <string name="loc">Location</string>
+    <string name="description">We Provide barbering services such as cutting, trimming, shampooing and styling hair, trimming beards, or giving shaves.</string>
+    <string name="todo">What we do : </string>
+    <string name="details">Details</string>
+    <string name="monday">Monday : </string>
+    <string name="tuesday">Tuesday : </string>
+    <string name="wednesday">Wednesday : </string>
+    <string name="thursday">Thursday : </string>
+    <string name="friday">Friday : </string>
+    <string name="saturday">Saturday : </string>
+    <string name="sunday">Sunday : </string>
+    <string name="height"> 08:00am - 09:00pm</string>
+    <string name="ten"> 10:00am - 09:00pm</string>
+    <string name="eleven"> 08:00am - 11:00pm</string>
+</resources>
+
+
